@@ -1,5 +1,18 @@
 # Redmeefile for JsonPowerDB Project
 
+## Table of Contents
+
+1. [Title of the Project](#title-of-the-project)
+2. [Description](#description)
+3. [Benefits of using JsonPowerDB](#benefits-of-using-jsonpowerdb)
+4. [Release History](#release-history)
+5. [Illustrations](#illustrations)
+6. [Scope of Functionalities](#scope-of-functionalities)
+7. [Examples of Use](#examples-of-use)
+8. [Project Status](#project-status)
+9. [Sources](#sources)
+10. [Other Information](#other-information)
+
 ## Title of the Project
 
 **JsonPowerDB Student Enrollment System**
@@ -58,19 +71,6 @@ The JsonPowerDB Student Enrollment System is a web-based application designed fo
       - CRUD operations for student records.
       - User-friendly form with validation.
 
-## Table of Contents
-
-1. [Title of the Project](#title-of-the-project)
-2. [Description](#description)
-3. [Benefits of using JsonPowerDB](#benefits-of-using-jsonpowerdb)
-4. [Release History](#release-history)
-5. [Table of Contents](#table-of-contents)
-6. [Illustrations](#illustrations)
-7. [Scope of Functionalities](#scope-of-functionalities)
-8. [Examples of Use](#examples-of-use)
-9. [Project Status](#project-status)
-10. [Sources](#sources)
-11. [Other Information](#other-information)
 
 ## Illustrations
 
