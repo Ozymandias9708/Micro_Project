@@ -1,0 +1,107 @@
+
+
+form{
+    padding: 10px;
+    border: 2px solid #000;
+    border-radius: 10px;
+}
+
+/* Reset some default styles */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    background-image: linear-gradient(blue,violet) !important;
+    padding: 5%;
+    padding-top: 0;
+    color: rgb(213, 198, 217);
+}
+
+
+
+.form-container {
+    background-color: #0000005a;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    /* margin-top: 30px; */
+    border-radius: 8px;
+    
+}
+
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 5px;
+
+}
+
+
+
+.form-control:focus{
+    border: 5px solid rgb(9, 9, 9);
+}
+.form-control:disabled{
+    background-color: grey !important;
+}
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    background-image: linear-gradient(to right,rgb(8, 149, 210),rgb(52, 10, 135));
+}
+
+.btn:hover {
+    border: 2px solid black;
+}
+
+
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+/* Media query for responsiveness */
+@media (max-width: 600px) {
+    .form-container {
+        margin-top: 20px;
+    }
+}
+
+.btn:disabled{
+    /* background-image: linear-gradient(to right,rgb(8, 149, 210),rgb(52, 10, 135)); */
+    color: #948b8b;
+}
+#title {
+
+    text-align: center;
+    padding: 20px;
+    font-family: 'Algerian', sans-serif;
+    /* Algerian font family */
+}
+
+#title h1 {
+    margin: 0;
+    color: white;
+}
